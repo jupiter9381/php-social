@@ -38,10 +38,10 @@
      <div class="col-lg-12 col-md-12 col-md-12 col-xs-12 about-banner-col-1">
          <img class="img-responsive top-ntch-about" src="/img/about-us-top-notch.png" />
          <h3>We help people grow their networks and increase visibility while providing valuable employment for active followers.</h3>
-<p>We created FollowMyAss.com to fix two problems that we experienced ourselves. One was the extensive use of bots and fake accounts by sites that sell followers. The second was a lack of meaningful compensation for users willing to help influencers build their networks. 
-We tried websites that promised money for answering questions and none of
-them worked. As we started campaigns we found it difficult to find reliable ways to quickly build our audience. We realized that the intersection of these two problems would create a perfect
-marketplace. That’s how <a href="https://followmyass.com" >followmyass.com </a>was created.</p>
+            <p>We created FollowMyAss.com to fix two problems that we experienced ourselves. One was the extensive use of bots and fake accounts by sites that sell followers. The second was a lack of meaningful compensation for users willing to help influencers build their networks. 
+            We tried websites that promised money for answering questions and none of
+            them worked. As we started campaigns we found it difficult to find reliable ways to quickly build our audience. We realized that the intersection of these two problems would create a perfect
+            marketplace. That’s how <a href="https://followmyass.com" >followmyass.com </a>was created.</p>
          </div>
          </div>
 
@@ -68,8 +68,8 @@ marketplace. That’s how <a href="https://followmyass.com" >followmyass.com </a
               <div class="col-lg-7 col-md-7 col-md-7 col-xs-7 about-banner-col-right">
          <h2>Make money following people</h2>
          <a class="about-sec-btns" href="https://followmyass.com/follow-for-money">Browse Offer</a>
-         </div>
-         </div>
+    </div>
+</div>
 
 
 <div class="row row-id-4 about-section-3">
